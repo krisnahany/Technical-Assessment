@@ -1,0 +1,7 @@
+Konkurensi yaitu bagaimana caranya menghadapi banyak pekerjaan sekaligus tanpa harus menunggu pekerjaan lain selesai, pekerjaannya banyak jenis tapi dilakukan secara sekaligus sedangkan paralel yaitu bagaimana suatu pekerjaan dibagi agar bisa dikerjakan sekaligus, pekerjaannya satu jenis tapi untuk data yang paralel
+
+Analogi konkurensi :
+Seorang koki bisa mengupas bawang sambil menanak nasi sekaligus karena mengupas bawang tidak harus menunggu nasi selesai dimasak. Saat koki memasak nasi, sambil menunggu nasi matang, koki dapat mengupas bawang, sesekali koki dapat mengecek apakah nasi sudah matang atau belum, kemudian melanjutkan mengupas bawang. Meskipun kokinya hanya satu, kedua pekerjaan dapat dimulai tanpa harus menunggu salah satunya selesai. Seorang koki juga bisa berganti task setiap 5 menit dari mengecek nasi, mengupas bawang, memasak telur. Ketiga task ini bisa dimulai bergantian meskipun selesainya tidak harus menunggu yang lainnya selesai.
+
+Analogi paralel :
+4 koki secara bersamaan mengupas bawang, tapi bawang yang dikupas jenisnya berbeda.

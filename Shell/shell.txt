@@ -1,0 +1,9 @@
+1) Create a single line script that returns the number of httpd processes that are running on the
+current machine
+
+  ps -auxw | grep httpd | grep -v grep | wc -l
+
+2) From the current folder (/tmp), provide some bash commands that will rename all the *.txt files in
+mig33/inner_folder/ to *.dat
+
+ for file in mig33/inner.folder/*.txt; do mv "$file" "${file%.txt}.dat"; done
